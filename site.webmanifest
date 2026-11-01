@@ -1,0 +1,21 @@
+{
+ "name": "SAKURA – Videoschnitt & Postproduktion",
+ "short_name": "SAKURA",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#161616",
+ "theme_color": "#161616",
+ "lang": "de",
+ "icons": [
+  {
+   "src": "favicon-48.png",
+   "sizes": "48x48",
+   "type": "image/png"
+  },
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
